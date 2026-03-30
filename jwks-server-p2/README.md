@@ -54,4 +54,4 @@ curl -s -X POST -H "Content-Type: application/json" \
 ```bash
 go test ./... -cover
 ```
-Target: >80% statement coverage.
+82% statement coverage.
